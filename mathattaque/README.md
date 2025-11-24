@@ -71,7 +71,9 @@ python3 main.py
 
 ---
 
-## ÉQUIPE
+## REMERCIEMENTS
+
+Merci à ceux qui ont participé à améliorer des parties de mon code:
 
 Maxime Vitry — maxime.vitry@student-cs.fr  
 Jean Castel — jean.castel@student-cs.fr  
