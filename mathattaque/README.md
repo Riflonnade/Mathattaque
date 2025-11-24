@@ -7,7 +7,7 @@
 - [Contenu du Code](#-contenu-du-code)
 - [Installation](#-installation)
 - [Lancement du Jeu](#-lancement-du-jeu)
-- [Équipe](#-équipe)
+- [Remerciements](#-remerciements)
 
 ---
 
