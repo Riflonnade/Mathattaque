@@ -70,12 +70,3 @@ python3 main.py
 ```
 
 ---
-
-## ÉQUIPE
-
-Maxime Vitry — maxime.vitry@student-cs.fr  
-Jean Castel — jean.castel@student-cs.fr  
-Baptiste Blasini — baptiste.blasini@student-cs.fr  
-Zélie Forgeard — zelie.forgeard@student-cs.fr  
-Toufic Najem — toufic.najem@student-cs.fr  
-Hugo Dunias — hugo.dunias@student-cs.fr  
